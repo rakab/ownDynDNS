@@ -7,8 +7,8 @@ use SoapClient;
 use SoapFault;
 
 /**
- * Example client to access the domain reselling API. 
- * Please note: We cannot guarantee the function of this client.  
+ * Example client to access the domain reselling API.
+ * Please note: We cannot guarantee the function of this client.
  * @service DomainWebserviceSoapClient
  */
 class DomainWebserviceSoapClient{

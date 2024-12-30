@@ -116,7 +116,7 @@ final class Config
     {
         return $this->log;
     }
-    
+
     /**
      * @return string
      */
